@@ -44,7 +44,7 @@ I’m currently pursuing a challenging role in **Development, Maintenance, and S
 ### 📫 Connect With Me  
 - **Email:** [lizzy.lopez@gmail.com](mailto:lizzy.lopez@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/lizzylopez](https://linkedin.com/in/lizzylopez)  
-- **Portfolio:** [lizzylopez.github.io](https://lizzylopez.github.io)
+- **Portfolio:** [lizzylopez.github.io](https://github.com/lizzyclopez)
 
 ---
 
