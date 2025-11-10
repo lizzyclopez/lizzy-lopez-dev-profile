@@ -12,6 +12,13 @@ I’m currently pursuing a challenging role in **Development, Maintenance, and S
 
 ---
 
+### 💡 Featured Projects  
+- 🧾 [**R2 Billing System**](https://github.com/lizzylopez/R2-Billing-System) — SQL Server–based billing system for reporting and automation.  
+- 📊 [**Power BI Reports Dashboard**](https://github.com/lizzylopez/PowerBI-Dashboard) — Interactive business intelligence dashboard for financial analysis.  
+- ⚙️ [**Automation Scripts Library**](https://github.com/lizzylopez/Automation-Scripts) — Collection of Python and SQL automation scripts for data workflows.
+
+---
+
 ### 🧠 Tech Stack  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
@@ -28,4 +35,16 @@ I’m currently pursuing a challenging role in **Development, Maintenance, and S
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lizzylopez&show_icons=true&theme=default&hide_border=true" alt="Lizzy's GitHub stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lizzylopez&theme=default&hide_border=true" alt="Lizzy's GitHub_
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lizzylopez&theme=default&hide_border=true" alt="Lizzy's GitHub streak" width="48%">
+</p>
+
+---
+
+### 📫 Connect With Me  
+- **Email:** [lizzy.lopez@gmail.com](mailto:lizzy.lopez@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/lizzylopez](https://linkedin.com/in/lizzylopez)  
+- **Portfolio:** [lizzylopez.github.io](https://lizzylopez.github.io)
+
+---
+
+⭐ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
