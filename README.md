@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Lizzy Lopez
+# 👋 Lizzy Lopez
 
-### 💼 Senior Software Engineer  
-📍 Pembroke Pines, FL  
+### 💼 Senior Full Stack Software Engineer  
+📍 I'm based in Pembroke Pines, FL  
 
 ---
 
 ### 👩‍💻 About Me  
-I’m a **Visual Studio C# and SQL Server Full Stack Developer** with experience in application development, database management, and automation.  
-I specialize in building data-driven solutions using **C#, SQL Server, Power BI, HTML/CSS, JavaScript, VBScript, Python, and GitHub**.  
+I’m a passionate Full Stack Software Engineer with 27 years experience in application development, database management, and automation.  
+I specialize in building data-driven solutions using **Visual Studio C#, SQL Server, Power BI, HTML/CSS, JavaScript, VBScript, Python, and GitHub**.  
 I’m currently pursuing a challenging role in **Development, Maintenance, and Support** that offers growth opportunities and a high degree of responsibility.
 
 ---
