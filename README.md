@@ -7,7 +7,7 @@
 
 ### 👩‍💻 About Me  
 I’m a passionate Full Stack Software Engineer with 27 years experience in application development, database management, and automation.  
-I specialize in building data-driven solutions using **Visual Studio C#, SQL Server, Power BI, HTML/CSS, JavaScript, VBScript, Python, and GitHub**.  
+I specialize in building data-driven solutions using **Visual Studio C#, SQL Server, Power BI, HTML/CSS, JavaScript, VBScript, Python, AWS Cloud Server, and GitHub**.  
 
 I’m currently pursuing a challenging role in **Development, Maintenance, and Support** that offers growth opportunities and a high degree of responsibility.
 
