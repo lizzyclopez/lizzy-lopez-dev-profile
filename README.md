@@ -14,9 +14,9 @@ I’m currently pursuing a challenging role in **Development, Maintenance, and S
 ---
 
 ### 💡 Featured Projects  
-- 🧾 [**R2 Billing System**](https://github.com/lizzylopez/R2-Billing-System) — SQL Server–based billing system for reporting and automation.  
-- 📊 [**Power BI Reports Dashboard**](https://github.com/lizzylopez/PowerBI-Dashboard) — Interactive business intelligence dashboard for financial analysis.  
-- ⚙️ [**Automation Scripts Library**](https://github.com/lizzylopez/Automation-Scripts) — Collection of Python and SQL automation scripts for data workflows.
+- 🧾 [**Billing System Reports**](https://github.com/lizzylopez/Billing System Reports) — SQL Server–based billing system for reporting and automation. SQL Server & Power BI dashboards.  
+- 📊 [**Power BI Reports Dashboard**](https://github.com/lizzylopez/PowerBI-Dashboard) — Interactive business intelligence dashboard for financial analysis. Power BI dashboards.
+- ⚙️ [**Automation Scripts Library**](https://github.com/lizzylopez/Automation-Scripts) — Collection of Python and SQL automation scripts for data workflows. ASP.NET MVC with C#.
 
 ---
 
